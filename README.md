@@ -1,6 +1,6 @@
 # Real-Time Route Tracking Android App
 
-A native Android application built with Java that allows users to select a pickup and drop-off location, view a calculated route, and track their real-time movement along the path—similar to ride-hailing apps like Uber or Bolt.
+A native Android application built with Java that allows users to select a pickup and drop-off location, view a calculated route, and track their real-time movement along the path.
 
 ---
 
