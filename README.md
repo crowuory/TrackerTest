@@ -66,6 +66,16 @@ Open the project using Android Studio.
 
 Add your API keys for Google Maps, Directions, and Places API.
 
+## 🔑 API Keys Required
+
+This project uses the following Google APIs:
+- Maps SDK
+- Directions API
+- Places API
+
+To run the app, create your own API key via [Google Cloud Console](https://console.cloud.google.com/), enable the required APIs, and add the keys
+
+
 4. Run the App
 
 Connect a device or use an emulator
